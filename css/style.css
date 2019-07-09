@@ -415,6 +415,7 @@ body >header >div {
 body >header a {
   display: block;
   color: #fff;
+  text-align: center;
 }
 #imglogo {
   float: left;
