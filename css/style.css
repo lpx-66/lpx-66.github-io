@@ -389,7 +389,7 @@ input[type="search"]::-webkit-search-decoration {
   }
 }
 body >header {
-  width: 100%;
+  width: 200px;
   -webkit-box-shadow: 2px 4px 5px rgba(3,3,3,0.2);
   box-shadow: 2px 4px 5px rgba(3,3,3,0.2);
   background: url("../img/banner.jpg") center #2ca6cb;
