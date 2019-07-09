@@ -1969,6 +1969,7 @@ footer {
   width: 90%;
   margin: 0 auto;
   color: #fff;
+  text-align: center;
 }
 @media only screen and (min-width: 768px) {
   .info {
@@ -2064,7 +2065,7 @@ footer {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-family: "covered_by_your_graceregular";
-  width: 100%;
+  width: 75%;
   color: #fff;
   text-align: center;
 }
